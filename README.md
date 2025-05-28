@@ -1,4 +1,4 @@
-### About the Inspection sample tool
+### About the Inspection sample tool 🙂
 
 The **Inspection sample tool** helps quality inspectors and production managers determine how many items of each size should be included in a sample for inspection, based on the total lot size, inspection level, and the distribution of sizes within the lot.
 
